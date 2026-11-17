@@ -1,3 +1,8 @@
+---
+name: salesforce-B2B-demo-screens
+description: Use when the user asks for Salesforce demo screens, mockups, or UI examples. Explain what it builds and when to trigger it.
+---
+
 # Build Brand Demo Screens
 
 Build a complete set of self-contained HTML presentation screens for a brand × Salesforce demo. These screens are designed for screen capture into demo videos — not for browser navigation. Each file is a standalone full-viewport scene with keyboard/click state-machine navigation.
